@@ -1,4 +1,4 @@
-# Prop Placement Editor for Noita
+# Prop Placement and Scene Editor for Noita
 
 A general-purpose in-game prop placement editor for Noita.
 
