@@ -25,10 +25,6 @@ Place the mod here:
     └── mods/
         └── prop_placement_editor/
 
-Keep the folder name:
-
-    prop_placement_editor
-
 Then enable the mod from Noita's Mods menu.
 
 ## Custom Props
