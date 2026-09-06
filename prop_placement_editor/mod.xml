@@ -1,0 +1,7 @@
+<Mod
+    name="Prop Placement Editor"
+    description="General-purpose scene and prop placement editor with runtime GFX import, sprite-sheet support, vanilla props, multiple instances, layering, minimizable UI and CSV scene save/load."
+    author="Arntorius"
+    version="1.5"
+    request_no_api_restrictions="1"
+/>
