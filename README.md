@@ -1,6 +1,6 @@
 # Prop Importer/Placement and Scene Editor for Noita
 
-A general-purpose in-game prop placement editor for Noita.
+A general-purpose in-game prop importer/placement and scene editor for Noita.
 
 Build and save scenes using custom PNGs, animated spritesheets, and supported vanilla Noita props. Props can be spawned multiple times, positioned precisely, layered, deleted, and saved as complete layouts.
 
